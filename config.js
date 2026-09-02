@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "dành cho <3",
+    titleWeb: "dành cho Nhi<3",
     introTitle: 'Nhi ơi',
     introDesc: `Chúc mừng kỷ niệm ngày Nhi chính thức sập bẫy 
     và ký vào bản hợp đồng iu củi vô điều kiện này!`,
@@ -9,10 +9,10 @@ const CONFIG = {
     nếu được chọn lại một lần nữa
     quay về ngày đầu tiên, 
     Nhi vẫn sẽ chọn iu củi chứ?`,
-    btnYes: 'dạ cóo <33',
-    btnNo: 'ko bao giờ :3',
+    btnYes: 'dạ cóo',
+    btnNo: 'ko bao giờ',
     question: 'Tại sao dọoo:33',
-    btnReply: 'Gửi (chụp màn hình gửi tui)',
+    btnReply: 'Gửi',
     reply: 'tại vì tui iu củi nhất trên đời lun á',
     mess: 'hehe iu iu mèo con nhìuuuu',
     messDesc: '*cắn*',
