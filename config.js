@@ -13,7 +13,7 @@ const CONFIG = {
     btnNo: 'ko bao giờ :3',
     question: 'Tại sao dọoo:33',
     btnReply: 'Gửi (chụp màn hình gửi tui)',
-    reply: 'liu liu',
+    reply: 'tại vì tui iu củi nhất trên đời lun á',
     mess: 'hehe iu iu mèo con nhìuuuu',
     messDesc: '*cắn*',
     btnAccept: 'iu Củi <3',
