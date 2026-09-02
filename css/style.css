@@ -1,3 +1,7 @@
+* {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
 .content {
     position: relative;
     z-index: 3;
@@ -42,6 +46,7 @@
 .swal2-title,
 .swal2-content {
     color: azure !important;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 .swal2-popup {
@@ -49,28 +54,32 @@
 }
 
 header h2 {
-    font-family: 'Pacifico';
+    font-family: 'Montserrat', sans-serif;
     font-size: 80px;
+    font-weight: 700;
     text-align: center;
     margin-bottom: 30px;
     color: cyan;
 }
 
 header h4 {
-    font-family: 'Pacifico';
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     text-align: center;
     color: chartreuse;
 }
 
 @media only screen and (max-width: 500px) {
     header h2 {
-        font-family: 'sans-serif';
+        font-family: 'Montserrat', sans-serif;
         font-size: 45px;
+        font-weight: 700;
         text-align: center;
         margin-bottom: 30px;
     }
     header h4 {
-        font-family: 'Pacifico';
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
         text-align: center;
         padding: 15px;
     }
