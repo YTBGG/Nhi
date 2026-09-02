@@ -1,20 +1,21 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "dành cho <3",
+    introTitle: 'Nhi ơi',
+    introDesc: `Chúc mừng kỷ niệm ngày Nhi chính thức sập bẫy 
+    và ký vào bản hợp đồng iu củi vô điều kiện này!`,
+    btnIntro: 'hihi',
+    title: 'Nhi ơi nếu như....',
+    desc: `Đi qua bao nhiêu năm tháng 
+    nếu được chọn lại một lần nữa
+    quay về ngày đầu tiên, 
+    Nhi vẫn sẽ chọn iu củi chứ?`,
+    btnYes: 'dạ cóo <33',
+    btnNo: 'ko bao giờ :3',
+    question: 'Tại sao dọoo:33',
+    btnReply: 'Gửi (chụp màn hình gửi tui)',
+    reply: 'liu liu',
+    mess: 'hehe iu iu mèo con nhìuuuu',
+    messDesc: '*cắn*',
+    btnAccept: 'iu Củi <3',
+    messLink: '' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
